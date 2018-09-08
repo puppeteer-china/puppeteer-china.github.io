@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## 欢迎来到中文社区
 
-You can use the [editor on GitHub](https://github.com/puppeteer-china/puppeteer-china.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+在这里你可以参与讨论及分享 Puppeteer 使用相关技巧，分享 Puppeteer 学习教材
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 中文社区
 
-### Markdown
+- [Puppeteer-China](https://github.com/orgs/puppeteer-china/teams/forum)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 中文文档
 
-```markdown
-Syntax highlighted code block
+- [puppeteer-api-zh_CN](https://zhaoqize.github.io/puppeteer-api-zh_CN/#/)
 
-# Header 1
-## Header 2
-### Header 3
+### 知乎专栏
 
-- Bulleted
-- List
+> 文章投稿地址
 
-1. Numbered
-2. List
+- [puppeteer-china](https://zhuanlan.zhihu.com/puppeteer-china)
 
-**Bold** and _Italic_ and `Code` text
+### 聊天频道
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/puppeteer-china/puppeteer-china.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Gitter 聊天室](https://gitter.im/puppeteer-China/Lobby)
+- [微信](https://github.com/zhaoqize/puppeteer-api-zh_CN/blob/master/img/q.png)
+- [QQ群](https://github.com/zhaoqize/puppeteer-api-zh_CN/blob/master/img/qq.jpeg)
