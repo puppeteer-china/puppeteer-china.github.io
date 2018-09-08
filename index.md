@@ -6,7 +6,7 @@
 
 - [Puppeteer-China](https://github.com/orgs/puppeteer-china/teams/forum)
 
-## 中文文档
+### 中文文档
 
 - [puppeteer-api-zh_CN](https://zhaoqize.github.io/puppeteer-api-zh_CN/#/)
 
