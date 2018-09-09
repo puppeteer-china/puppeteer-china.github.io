@@ -16,9 +16,7 @@
 
 ### 知乎专栏
 
-> 文章投稿地址
-
-- [puppeteer-china](https://zhuanlan.zhihu.com/puppeteer-china)
+- [puppeteer-china](https://zhuanlan.zhihu.com/puppeteer-china)，用于文章投稿
 
 ### 聊天频道
 
