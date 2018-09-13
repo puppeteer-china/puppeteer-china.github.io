@@ -21,5 +21,5 @@
 ### 聊天频道
 
 - [Gitter 聊天室](https://gitter.im/puppeteer-China/Lobby)
-- [微信](https://github.com/zhaoqize/puppeteer-api-zh_CN/blob/master/img/q.png)
+- [微信](https://github.com/zhaoqize/puppeteer-api-zh_CN/blob/master/img/wechat.jpeg)
 - [QQ群](https://github.com/zhaoqize/puppeteer-api-zh_CN/blob/master/img/qq.jpeg)
